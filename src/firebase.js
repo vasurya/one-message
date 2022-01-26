@@ -3,7 +3,7 @@ import { getDatabase } from "firebase/database";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBOpiruqkmozTedbtg5LiVI42ny4KBMHFg",
+  apiKey: "AIzaSyBOpiruqkozTedbtg5LiVI42ny4KBMHFg",
   authDomain: "one-chance-7f63d.firebaseapp.com",
   projectId: "one-chance-7f63d",
   storageBucket: "one-chance-7f63d.appspot.com",
